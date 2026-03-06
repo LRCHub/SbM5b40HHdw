@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミペディア",
+  "base_artist": "Junky",
+  "createdAt": "2026-03-06T00:16:39.839087Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミペディア",
+      "artist": "Junky Feat. 鏡音リン・レン",
+      "has_synced": false,
+      "path": "select/pl_01_キミペディア_Junky_Feat._鏡音リン・レン.txt"
+    }
+  ]
+}
